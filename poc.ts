@@ -18,4 +18,6 @@ testFunction(1, Math.log(-1));
 
 testFunction(1, Math.sqrt(-2));
 
+testFunction(1, Math.pow(99999999, 99999999));
+
 testFunction(1, parseFloat('string'));
