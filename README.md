@@ -29,3 +29,11 @@ yarn install
 yarn run check
 yarn start
 ```
+
+
+## References
+
+* [The Curious Case of JavaScript NaN](https://ariya.io/2014/05/the-curious-case-of-javascript-nan)
+* [StackOverflow: Is it possible to make TypeScript crash on 0 / 0 and Math.log(-1) instead of returning NaN?](https://stackoverflow.com/questions/20534887/break-on-nan-in-javascript)
+* [StackOverflow: Break on NaN in JavaScript](https://stackoverflow.com/questions/20534887/break-on-nan-in-javascript)
+* [TypeScript Issue about adding a NaN type](https://github.com/Microsoft/TypeScript/issues/21279)

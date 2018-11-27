@@ -1,5 +1,3 @@
-// NaN tips from: https://ariya.io/2014/05/the-curious-case-of-javascript-nan
-
 const testFunction = (a: number, b: number) => {
   if (a > b) {
     return;
